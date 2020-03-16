@@ -4,7 +4,7 @@
 ## Installation
 1. Copy `python_scripts/zigbee_dimmer.py` into `<your Home Assistant config folder>/python_scripts`
 
-2. Add `python_script:` to your configuration.yaml (if you haven't done it already)
+2. Add `python_script:` in your configuration.yaml (if you haven't done it already)
 
 3. Add this in your configuration.yaml:
 ```
