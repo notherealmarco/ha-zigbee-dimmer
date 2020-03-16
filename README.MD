@@ -20,7 +20,7 @@ Call the `python_script.zigbee_dimmer` service
 
 ##### Service data:
 ```
-lights:\
+lights:
   - '0x14b457fffe6792fa' #zigbee2mqtt device id or friendly name
 ha_lights:
   - 'light.mrc_spotlight_01' #Home Assistant entity_id
